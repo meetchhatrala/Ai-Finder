@@ -1,0 +1,67 @@
+[
+    {
+        "name": "ClickUp",
+        "url":   "https://clickup.com/features/ai",
+        "Description": "Built into a comprehensive project management toolset, ClickUp AI is there when and where you need it. Filling the role of an AI-powered assistant, ClickUp AI will help you craft first drafts, improve existing content, develop content ideas, generate marketing taglines, brainstorm your next campaign, and basically obliterate writer’s block.",
+        "Tags":  ["Summary", "Bio", "Documentation"],
+        "Category": "Text",
+        "Image": "C:/Users/VATSAL/.vscode/SGP/Ai Finder/Styles/Resources/text/clickup.png",
+        "Use_by": ""
+    },{
+        "name": "Quillbot",
+        "url":   "https://quillbot.com/",
+        "Description": "Your words matter, and our paraphrasing tool is designed to ensure you use the right ones. With unlimited Custom modes and 8 predefined modes, Paraphraser lets you rephrase text countless ways. Our product will improve your fluency while also ensuring you have the appropriate vocabulary, tone, and style for any occasion.",
+        "Tags":  ["Plagiarism", "Grammar", "Paraphrasing"],
+        "Category": "Text",
+        "Image": "C:/Users/VATSAL/.vscode/SGP/Ai Finder/Styles/Resources/text/quillbot.png",
+        "Use_by": ""
+    },{
+        "name": "Jasper",
+        "url":   "https://www.jasper.ai/",
+        "Description": "Jasper is an artificial intelligence platform that helps teams create high-quality content faster. Stop chasing word-count and start pursuing ideas.Jasper is the only AI that can be trained on your style of writing so you consistently generate content that’s on-brand across your team. ",
+        "Tags":  ["Text cloning", "Editing", "Professional"],
+        "Category": "Text",
+        "Image": "C:/Users/VATSAL/.vscode/SGP/Ai Finder/Styles/Resources/image/logos_Jasper.jpg",
+        "Use_by": ""
+    },{
+        "name": "Copy.Ai",
+        "url":   "https://www.copy.ai/",
+        "Description": "Meet your brainstorming buddy, blank page remover, research assistant, and expert copywriter: Chat by Copy.ai. Use our generative AI platform to work faster, smarter, and anything but harder. Whatever you need, just ask.",
+        "Tags":  ["Product Description", "Editing", "Grammar"],
+        "Category": "Text",
+        "Image": "C:/Users/VATSAL/.vscode/SGP/Ai Finder/Styles/Resources/text/copyai.png",
+        "Use_by": ""
+    },{
+        "name": "ContentBot",
+        "url":   "https://contentbot.ai/",
+        "Description": "Turbocharge your digital marketing with AI-driven content automation. Create any flow you like.Our AI Automation Tools help many types of creators in the digital space.Turbocharge your digital marketing with AI-driven content automation. Create any flow you like.",
+        "Tags":  ["AI flow","WorkFlow", "Planning"],
+        "Category": "Text",
+        "Image": "C:/Users/VATSAL/.vscode/SGP/Ai Finder/Styles/Resources/text/contentbot.webp",
+        "Use_by": ""
+    },{
+        "name": "ChatGPT",
+        "url":   "https://chat.openai.com/",
+        "Description": "ChatGPT is the tool that created the current widespread interest in AI-generated text. When OpenAI put its tools in a chat interface on a website for free, just about everyone tried it out. It uses the latest OpenAI GPT-3.5 large language model (LLM) for the free version and the GPT-4 LLM for the paid ChatGPT Plus. ",
+        "Tags":  ["Free", "Optimized", "Planning"],
+        "Category": "Text",
+        "Image": "C:/Users/VATSAL/.vscode/SGP/Ai Finder/Styles/Resources/image/dall-e.png",
+        "Use_by": ""
+    },{
+        "name": "Simplified",
+        "url":   "https://simplified.com/",
+        "Description": "Simplified is a multimedia AI content generator and management tool aimed at marketing teams. It uses templates, AI, and simplified tools to create graphic design, images, videos, and text. It includes features to manage and post on social media.",
+        "Tags":  ["Subtitles", "Chatbot", "Trusted"],
+        "Category": "Text",
+        "Image": "C:/Users/VATSAL/.vscode/SGP/Ai Finder/Styles/Resources/text/simplified.jpg",
+        "Use_by": ""
+    },{
+        "name": "Frase",
+        "url":   "https://www.frase.io/",
+        "Description": "Frase is an SEO content creation platform aimed at content marketers and marketing agencies. Along with AI text generation, Frase also includes content analytics. Because it’s built for collaboration, it also offers tools for sharing and organizing projects. ",
+        "Tags":  ["SEO Research", "Documentation", "Editing"],
+        "Category": "Text",
+        "Image": "C:/Users/VATSAL/.vscode/SGP/Ai Finder/Styles/Resources/text/Frase.webp",
+        "Use_by": ""
+    }
+]

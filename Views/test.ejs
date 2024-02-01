@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>List of AI</title>
+</head>
+<body>
+  <h1>List of AI</h1>
+  <ul>
+    <% aiList.forEach(function(ai) { %>
+      <li>
+        <h2><%= ai.name %></h2>
+        <p><strong>Category:</strong> <%= ai.Category %></p>
+        <!-- You can add more fields here as needed -->
+      </li>
+    <% }); %>
+  </ul>
+</body>
+</html>
+<!-- <p><%= ai.ratings %>.0
+    <% for(var j = 0; j < (ratings[i]) ; j++) { %>
+        <span class="fa fa-star checked"></span>
+    <% } %>
+    
+    <%if((5 - (locals.ratings[i])) >= 0){ for(var k = 0; k < (5 - (ratings[i])) ; k++) { %>
+        <span class="fa fa-star"></span>
+    <% }} %>
+    </p> -->

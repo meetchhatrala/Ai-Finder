@@ -1,0 +1,582 @@
+[{
+  "_id": {
+    "$oid": "653b7e345f0cd0678634701f"
+  },
+  "name": "veed.io",
+  "url": "https://www.veed.io/",
+  "Description": "Record and edit your videos in the cloud. We help scale your brand, channel or vlog. An online video suite for professionals. Record and edit your videos in the cloud.",
+  "Tags": [
+    "Sales Videos",
+    "Editor",
+    "Subtitles",
+    "Translations"
+  ],
+  "Category": "Video",
+  "Use_by": "",
+  "Image": "Resources/Video/icon1.jpg"
+},
+{
+  "_id": {
+    "$oid": "653b80325f0cd06786347020"
+  },
+  "name": "Descript",
+  "url": "https://www.descript.com/?lmref=Qln6zg&lm_meta=cdescript%20ai-1007753-g",
+  "Description": "Use the power of AI & skip the hard part of editing videos. Try Descript for free. Remove video backgrounds, filler words & background noise. Clone your voice. In one click. Overdub. Social Clips & Templates. Transcription. Filler Word Removal. Podcasting.",
+  "Tags": [
+    "Podcasting",
+    "Transcription",
+    "Screen Recording"
+  ],
+  "Category": "Video",
+  "Use_by": "",
+  "Image": "Resources/Video/icon2.jpg"
+},
+{
+  "_id": {
+    "$oid": "653b84545f0cd06786347022"
+  },
+  "name": "Synthesia",
+  "url": "https://www.synthesia.io/tools/video-maker",
+  "Description": "Create Professional Videos in 15 Minutes. Replace Boring Docs, Powerpoints, And Pdfs. Synthesia Allows You To Create Videos From Plain Text In Minutes. View Products. Browse Features. Explore Resources.",
+  "Tags": [
+    "Voice cloning",
+    "AI Avatars",
+    "AI Voices",
+    "Video Templates"
+  ],
+  "Category": "Video",
+  "Image": "Resources/Video/icon3.jpg",
+  "Use_by": ""
+},
+{
+  "_id": {
+    "$oid": "653b84e35f0cd06786347023"
+  },
+  "name": "Heygen",
+  "url": "https://demo.heygen.com/free-video",
+  "Description": "Heygen is a Video Platform That Help you Create Engaging Business Video with Generative AI. .Make your spokesperson or digital teacher video in minutes, as easy as making PowerPoints.",
+  "Tags": [
+    "Editor",
+    "Templates",
+    "Avatars",
+    "Assets"
+  ],
+  "Category": "Video",
+  "Image": "Resources/Video/icon4.jpg",
+  "Use_by": ""
+},
+{
+  "_id": {
+    "$oid": "653b84f25f0cd06786347024"
+  },
+  "name": "Deepbrain",
+  "url": "https://www.deepbrain.io/",
+  "Description": "DeepBrain AI offers a leading video generator, transforming text into videos swiftly with photo-realistic AI avatars. It provides multilingual support, diverse customizable avatars, and intuitive editing tools, optimizing video production costs and time.",
+  "Tags": [
+    "Avatars",
+    "AI Human",
+    "AI Interview",
+    "Text to video"
+  ],
+  "Category": "Video",
+  "Image": "Resources/Video/icon5.jpg",
+  "Use_by": ""
+},
+{
+  "_id": {
+    "$oid": "653b854e5f0cd06786347025"
+  },
+  "name": "Synthesys",
+  "url": "https://synthesys.io/ai-video-generator/",
+  "Description": "Creating professional AI content at scale has never been easier. From videos with avatars and voiceovers to images, Synthesys is the only Ai content suite you'll ever need. You can create videos, images, voiceovers, and everything else you might need in a single intuitive platform",
+  "Tags": [
+    "AI Images",
+    "Voice Cloning",
+    "API",
+    "Image Generator"
+  ],
+  "Category": "Video",
+  "Image": "Resources/Video/icon6.jpg",
+  "Use_by": ""
+},
+{
+  "_id": {
+    "$oid": "653b85585f0cd06786347026"
+  },
+  "name": "Quickvid.ai",
+  "url": "https://www.quickvid.ai/",
+  "Description": "Your one-stop solution for crafting engaging YouTube Shorts. Experience an AI-powered streamlined workflow designed for efficiency and ease-of-use. No video editing experience required.",
+  "Tags": [
+    "Cloning",
+    "Avatar",
+    "Overlays",
+    "Editor"
+  ],
+  "Category": "Video",
+  "Image": "Resources/Video/icon7.jpg",
+  "Use_by": ""
+},
+{
+  "_id": {
+    "$oid": "653b85655f0cd06786347027"
+  },
+  "name": "Wavevideo",
+  "url": "https://wave.video/tools/video-marketing/turn-text-into-video",
+  "Description": "Easiest platform to make and record videos. Live Streaming Studio, Video Editor, Thumbnail Maker, Video Hosting, Video Recording, and Stock Library combined in one platform.Stream live or broadcast pre-recorded videos to multiple channels simultaneously.",
+  "Tags": [
+    "Video Editing",
+    "Audio Editing",
+    "Video Hosting",
+    "Converters"
+  ],
+  "Category": "Video",
+  "Image": "Resources/Video/icon8.jpg",
+  "Use_by": ""
+},
+{
+  "_id": {
+    "$oid": "653b85845f0cd06786347028"
+  },
+  "name": "Designs.AI",
+  "url": "https://designs.ai/",
+  "Description": "Create logos, videos, banners, mockups with A.I. in 2 minutes.Designs.ai helps you save time, cut costs, and simplify your workflow.Use our text-to video technology to transform articles, posts, and text scripts into powerful, fully-edited videos in more than 20 languages.",
+  "Tags": [
+    "Logomaker",
+    "Video Editor",
+    "Media Generator"
+  ],
+  "Category": "Video",
+  "Image": "Resources/Video/icon9.jpg",
+  "Use_by": ""
+},
+{
+  "_id": {
+    "$oid": "653b858d5f0cd06786347029"
+  },
+  "name": "Runway",
+  "url": "https://runwayml.com/video-editing/",
+  "Description": "From basic video editing to advanced post-processing, Runway is like having your own video production studio right inside your browser. Try our professional video editing software on your next project for flawless visual effects, video formatting, color correction and more.",
+  "Tags": [
+    "Inpainting",
+    "Infinite Image",
+    "Image to Video"
+  ],
+  "Category": "Video",
+  "Image": "Resources/Video/icon10.jpg",
+  "Use_by": ""
+},
+{
+  "_id": {
+    "$oid": "653b8e055f0cd0678634702c"
+  },
+  "name": "LogoAi",
+  "url": "https://www.google.com/aclk?sa=l&ai=DChcSEwjBv6voqqqBAxWXD3sHHeo9De8YABABGgJ0bQ&ase=2&gclid=CjwKCAjw3oqoBhAjEiwA_UaLtpxl8nAiNqmelkjT-g74dkatKl_ZbznjOSAvfPFnRDxCAgrrPdltFBoCCL8QAvD_BwE&sig=AOD64_0bMjShKgSBum9BJtlCC0T6940ONQ&nis=4&adurl&ved=2ahUKEwjutqPoqqqBAxU9bfUHHQFIDkcQqyQoAHoECA0QCw",
+  "Description": "Let AI-powered logo maker generate your new logo, create matching stationery, and design a brand you love!AI engine that not only understands logo data but also design best practices for beautiful unique designs.",
+  "Tags": [
+    "Logo Maker",
+    "Logo Ideas",
+    "Designer"
+  ],
+  "Category": "Logo",
+  "Image": "Resources/logo/icon1.jpg",
+  "Use_by": ""
+},
+{
+  "_id": {
+    "$oid": "653b8e055f0cd0678634702d"
+  },
+  "name": "Tailor Brands",
+  "url": "https://www.tailorbrands.com/logo-maker",
+  "Description": "Use Tailor Brands’ logo generator to create beautiful custom logo designs in just a few minutes. Head over afterwards to our LLC formation page to officialize your business.",
+  "Tags": [
+    "Trademark",
+    "LLC formation",
+    "Domain"
+  ],
+  "Category": "Logo",
+  "Image": "Resources/logo/icon2.jpg",
+  "Use_by": ""
+},
+{
+  "_id": {
+    "$oid": "653b8e055f0cd0678634702e"
+  },
+  "name": "Looka",
+  "url": "https://looka.com/logo-maker/",
+  "Description": "Looka Logo Maker combines your logo design preferences with Artificial Intelligence to help you create a custom logo you'll love. All it takes is a few clicks and five minutes.",
+  "Tags": [
+    "Vector files",
+    "Customization",
+    "Royalty-Free"
+  ],
+  "Category": "Logo",
+  "Image": "Resources/logo/icon3.jpg",
+  "Use_by": ""
+},
+{
+  "_id": {
+    "$oid": "653b8e055f0cd0678634702f"
+  },
+  "name": "Designevo",
+  "url": "https://www.designevo.com/logo-maker/",
+  "Description": "Create Custom Logos with DesignEvo Free Logo Maker DesignEvo is a free online logo maker with 10,000+ templates that anyone can use to bring to life a compelling, unique logo in minutes.",
+  "Tags": [
+    "Templates",
+    "Professional",
+    "Free"
+  ],
+  "Category": "Logo",
+  "Image": "Resources/logo/icon4.jpg",
+  "Use_by": ""
+},
+{
+  "_id": {
+    "$oid": "653b8e055f0cd06786347030"
+  },
+  "name": "Logo",
+  "url": "https://logo.com/logo-maker",
+  "Description": "Get a complete brand kit along with your logo. All the files you need for print, social, and a branding guide. HD and vector images to ensure that your logo looks good everywhere.",
+  "Tags": [
+    "Business name Generator",
+    "Free"
+  ],
+  "Category": "Logo",
+  "Image": "Resources/logo/icon5.jpg",
+  "Use_by": ""
+},
+{
+  "_id": {
+    "$oid": "653b8e055f0cd06786347031"
+  },
+  "name": "Wix",
+  "url": "https://www.wix.com/logo/maker",
+  "Description": "All the tools you need to build your brand online.Get a personal logo design.Download high-quality vector files",
+  "Tags": [
+    "High-res files",
+    "Vector files",
+    "Free"
+  ],
+  "Category": "Logo",
+  "Image": "Resources/logo/icon6.jpg",
+  "Use_by": ""
+},
+{
+  "_id": {
+    "$oid": "653b8e055f0cd06786347032"
+  },
+  "name": "Hatchful",
+  "url": "https://help.shopify.com/en/manual/online-store/images/hatchful",
+  "Description": "Hatchful by Shopify is a free tool created by Shopify that allows you to create your own logo. Logos are an important part of branding your store. They help build a cohesive experience for your customers.",
+  "Tags": [
+    "Assistant",
+    "Trusted brand",
+    "Free use"
+  ],
+  "Category": "Logo",
+  "Image": "Resources/logo/icon7.jpg",
+  "Use_by": ""
+},
+{
+  "_id": {
+    "$oid": "653b8e055f0cd06786347033"
+  },
+  "name": "Logomaster",
+  "url": "https://app.logomaster.ai/edit",
+  "Description": "Make a Logo in 5 Minutes. Logomaster.ai is your one-stop solution for professional logo design. Create and edit logos with ease, no design skills required.",
+  "Tags": [
+    "Templates",
+    "Vector files",
+    "Free"
+  ],
+  "Category": "Logo",
+  "Image": "Resources/logo/icon8.jpg",
+  "Use_by": ""
+},
+{
+  "_id": {
+    "$oid": "653b8e055f0cd06786347034"
+  },
+  "name": "Logobean",
+  "url": "https://www.logobean.com/index.html",
+  "Description": "Free Logo Maker for Entrepreneurs. Instantly create a unique & professional logo and brand that you love using Logobean's revolutionary online logo maker.",
+  "Tags": [
+    "Free",
+    "Professional",
+    "Business name Generator"
+  ],
+  "Category": "Logo",
+  "Image": "Resources/logo/icon9.jpg",
+  "Use_by": ""
+},
+{
+  "_id": {
+    "$oid": "653b8e055f0cd06786347035"
+  },
+  "name": "Designs AI",
+  "url": "https://designs.ai/logomaker/start",
+  "Description": "Professional logos in seconds - no experience required to design your own logo. Customise fonts, colors, layouts using our flexible editor",
+  "Tags": [
+    "Color Matcher",
+    "Free",
+    "Professional"
+  ],
+  "Category": "Logo",
+  "Image": "Resources/logo/icon10.jpg",
+  "Use_by": ""
+},
+{
+  "_id": {
+    "$oid": "653ca561d50d82a161aea87c"
+  },
+  "name": "Midjourney",
+  "url": "https://www.midjourney.com/home/",
+  "Description": "Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.We are a small self-funded team focused on design, human infrastructure, and AI.",
+  "Tags": [
+    "Trending",
+    "Professional",
+    "Image Generator"
+  ],
+  "Category": "Image",
+  "Image": "Resources/image/Midjourney.webp",
+  "Use_by": ""
+},
+{
+  "_id": {
+    "$oid": "653ca561d50d82a161aea87d"
+  },
+  "name": "Jasper Art",
+  "url": "https://www.jasper.ai/art",
+  "Description": "Meet Jasper, the AI art generator who turns whatever you can imagine into unique images and photos in seconds. Finally, the perfect picture to match any message.Jasper is the AI art generator & writer that helps you create amazing content, faster.",
+  "Tags": [
+    "2K images",
+    "Royalty free",
+    "No Watermark"
+  ],
+  "Category": "Image",
+  "Image": "Resources/image/logos_Jasper.jpg",
+  "Use_by": ""
+},
+{
+  "_id": {
+    "$oid": "653ca561d50d82a161aea87e"
+  },
+  "name": "Night Cafe",
+  "url": "https://creator.nightcafe.studio/",
+  "Description": "Create amazing artworks in seconds using the power of Artificial Intelligence, participate in AI Art Challenges, chat with AI Art enthusiasts, and more. Try an art generator now!",
+  "Tags": [
+    "Custom Styles",
+    "Free",
+    "Challenges"
+  ],
+  "Category": "Image",
+  "Image": "Resources/image/nightcafe.png",
+  "Use_by": ""
+},
+{
+  "_id": {
+    "$oid": "653ca561d50d82a161aea87f"
+  },
+  "name": "DeepAi",
+  "url": "https://deepai.org/",
+  "Description": "Artificially intelligent tools for naturally creative humans. DeepAI offers a suite of tools that use AI to enhance your creativity.Enter a prompt, pick an art style and DeepAI will bring your idea to life.",
+  "Tags": [
+    "Community",
+    "AI chat",
+    "Image editor"
+  ],
+  "Category": "Image",
+  "Image": "Resources/image/deepai.jpeg",
+  "Use_by": ""
+},
+{
+  "_id": {
+    "$oid": "653ca561d50d82a161aea880"
+  },
+  "name": "Runway",
+  "url": "https://runwayml.com/video-editing/",
+  "Description": "From basic video editing to advanced post-processing, Runway is like having your own video production studio right inside your browser. Try our professional video editing software on your next project for flawless visual effects, video formatting, color correction and more.",
+  "Tags": [
+    "Inpainting",
+    "Infinite Image",
+    "Image to Video"
+  ],
+  "Category": "Image",
+  "Image": "Resources/Video/icon10.jpg",
+  "Use_by": ""
+},
+{
+  "_id": {
+    "$oid": "653ca561d50d82a161aea881"
+  },
+  "name": "Bing",
+  "url": "https://www.bing.com/create",
+  "Description": "Image Creator helps you generate AI images with DALL-E right from the sidebar in Microsoft Edge. Given a text prompt, our AI will generate a set of images matching that prompt.",
+  "Tags": [
+    "Trusted",
+    "Free",
+    "Professional"
+  ],
+  "Category": "Image",
+  "Image": "Resources/image/bing.jpeg",
+  "Use_by": ""
+},
+{
+  "_id": {
+    "$oid": "653ca561d50d82a161aea882"
+  },
+  "name": "Dreamstudio",
+  "url": "https://beta.dreamstudio.ai/generate",
+  "Description": "DreamStudio is an easy-to-use interface for creating images using the latest version of the Stable Diffusion image generation model. Stable Diffusion is a fast, efficient model for creating images from text which understands the relationships between words and images.",
+  "Tags": [
+    "Editor",
+    "Efficient",
+    "Professional"
+  ],
+  "Category": "Image",
+  "Image": "Resources/image/dreamstudio.jpeg",
+  "Use_by": ""
+},
+{
+  "_id": {
+    "$oid": "653ca561d50d82a161aea883"
+  },
+  "name": "DALL-E",
+  "url": "https://openai.com/dall-e-2",
+  "Description": "DALL·E 2 can create original, realistic images and art from a text description. It can combine concepts, attributes, and styles.our newest system, DALL·E 2, generates more realistic and accurate images with 4x greater resolution.Our hope is that DALL·E 2 will empower people to express themselves creatively.",
+  "Tags": [
+    "Professional",
+    "Efficient",
+    "Paid"
+  ],
+  "Category": "Image",
+  "Image": "Resources/image/dall-e.png",
+  "Use_by": ""
+},
+{
+  "_id": {
+    "$oid": "653cddc5d50d82a161aea885"
+  },
+  "name": "ClickUp",
+  "url": "https://clickup.com/features/ai",
+  "Description": "Built into a comprehensive project management toolset, ClickUp AI is there when and where you need it. Filling the role of an AI-powered assistant, ClickUp AI will help you craft first drafts, improve existing content, develop content ideas, generate marketing taglines, brainstorm your next campaign, and basically obliterate writer’s block.",
+  "Tags": [
+    "Summary",
+    "Bio",
+    "Documentation"
+  ],
+  "Category": "Text",
+  "Image": "Resources/text/clickup.png",
+  "Use_by": ""
+},
+{
+  "_id": {
+    "$oid": "653cddc5d50d82a161aea886"
+  },
+  "name": "Quillbot",
+  "url": "https://quillbot.com/",
+  "Description": "Your words matter, and our paraphrasing tool is designed to ensure you use the right ones. With unlimited Custom modes and 8 predefined modes, Paraphraser lets you rephrase text countless ways. Our product will improve your fluency while also ensuring you have the appropriate vocabulary, tone, and style for any occasion.",
+  "Tags": [
+    "Plagiarism",
+    "Grammar",
+    "Paraphrasing"
+  ],
+  "Category": "Text",
+  "Image": "Resources/text/quillbot.png",
+  "Use_by": ""
+},
+{
+  "_id": {
+    "$oid": "653cddc5d50d82a161aea887"
+  },
+  "name": "Jasper",
+  "url": "https://www.jasper.ai/",
+  "Description": "Jasper is an artificial intelligence platform that helps teams create high-quality content faster. Stop chasing word-count and start pursuing ideas.Jasper is the only AI that can be trained on your style of writing so you consistently generate content that’s on-brand across your team. ",
+  "Tags": [
+    "Text cloning",
+    "Editing",
+    "Professional"
+  ],
+  "Category": "Text",
+  "Image": "Resources/image/logos_Jasper.jpg",
+  "Use_by": ""
+},
+{
+  "_id": {
+    "$oid": "653cddc5d50d82a161aea888"
+  },
+  "name": "Copy.Ai",
+  "url": "https://www.copy.ai/",
+  "Description": "Meet your brainstorming buddy, blank page remover, research assistant, and expert copywriter: Chat by Copy.ai. Use our generative AI platform to work faster, smarter, and anything but harder. Whatever you need, just ask.",
+  "Tags": [
+    "Product Description",
+    "Editing",
+    "Grammar"
+  ],
+  "Category": "Text",
+  "Image": "Resources/text/copyai.png",
+  "Use_by": ""
+},
+{
+  "_id": {
+    "$oid": "653cddc5d50d82a161aea889"
+  },
+  "name": "ContentBot",
+  "url": "https://contentbot.ai/",
+  "Description": "Turbocharge your digital marketing with AI-driven content automation. Create any flow you like.Our AI Automation Tools help many types of creators in the digital space.Turbocharge your digital marketing with AI-driven content automation. Create any flow you like.",
+  "Tags": [
+    "AI flow",
+    "WorkFlow",
+    "Planning"
+  ],
+  "Category": "Text",
+  "Image": "Resources/text/contentbot.webp",
+  "Use_by": ""
+},
+{
+  "_id": {
+    "$oid": "653cddc5d50d82a161aea88a"
+  },
+  "name": "ChatGPT",
+  "url": "https://chat.openai.com/",
+  "Description": "ChatGPT is the tool that created the current widespread interest in AI-generated text. When OpenAI put its tools in a chat interface on a website for free, just about everyone tried it out. It uses the latest OpenAI GPT-3.5 large language model (LLM) for the free version and the GPT-4 LLM for the paid ChatGPT Plus. ",
+  "Tags": [
+    "Free",
+    "Optimized",
+    "Planning"
+  ],
+  "Category": "Text",
+  "Image": "Resources/image/dall-e.png",
+  "Use_by": ""
+},
+{
+  "_id": {
+    "$oid": "653cddc5d50d82a161aea88b"
+  },
+  "name": "Simplified",
+  "url": "https://simplified.com/",
+  "Description": "Simplified is a multimedia AI content generator and management tool aimed at marketing teams. It uses templates, AI, and simplified tools to create graphic design, images, videos, and text. It includes features to manage and post on social media.",
+  "Tags": [
+    "Subtitles",
+    "Chatbot",
+    "Trusted"
+  ],
+  "Category": "Text",
+  "Image": "Resources/text/simplified.jpg",
+  "Use_by": ""
+},
+{
+  "_id": {
+    "$oid": "653cddc5d50d82a161aea88c"
+  },
+  "name": "Frase",
+  "url": "https://www.frase.io/",
+  "Description": "Frase is an SEO content creation platform aimed at content marketers and marketing agencies. Along with AI text generation, Frase also includes content analytics. Because it’s built for collaboration, it also offers tools for sharing and organizing projects. ",
+  "Tags": [
+    "SEO Research",
+    "Documentation",
+    "Editing"
+  ],
+  "Category": "Text",
+  "Image": "Resources/text/Frase.webp",
+  "Use_by": ""
+}]

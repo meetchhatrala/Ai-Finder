@@ -1,0 +1,157 @@
+body {
+  /* font-family: Montserrat, sans-serif !important;  */
+  background-color: white;
+  font-family: "Regular";
+}
+
+@font-face {
+  font-family: "Regular";
+  src: url("ObjectSans/Regular.otf") format("opentype");
+}
+@font-face {
+  font-family: "Heavy";
+  src: url("ObjectSans/Heavy.otf") format("opentype");
+}
+
+html {
+  margin: none;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a:link {
+  color: #131412;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #131412;
+}
+
+/* mouse over link */
+a:hover {
+  color: white;
+  font-size: 14px;
+}
+
+/* selected link */
+a:active {
+  color: #464943;
+}
+.head {
+  background-color: rgb(219, 219, 219);
+  font-size: 12px;
+  /* color: rgb(247, 251, 255); */
+  overflow: hidden;
+  padding: 0px 20px;
+}
+
+.Name_div {
+  font-size: 22px !important;
+  padding: 14px 12px;
+  float: left;
+}
+
+.nav_div .redirect {
+  font-size: 12px;
+  text-align: center;
+  padding: 20px 20px;
+  float: right;
+  transition: 0.5s ease;
+}
+.part {
+  width: 90%;
+  margin: 20px auto; /* Center the 'part' element on the page */
+  padding: 20px 20px; /* Add some padding for spacing between 'part' blocks */
+  background-color: #f7f7f7; /* Background color for 'part' blocks */
+  border: 1px solid #ccc; /* Add a border to separate 'part' blocks */
+  border-radius: 5px; /* Rounded corners for a clean look */
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow for depth */
+  /* margin-bottom: 20px; Margin to separate 'part' blocks */
+}
+ 
+h1{
+  font-size: 40px;
+  font-family: "Heavy";
+  color: #2b2b2b !important;
+  background-color: #242424;
+  background-image: linear-gradient(146deg, #5d96ff 0%, #405dff 100%);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  margin: 10px 0px 20px 0px;
+}
+
+span{
+    font-size: 22px;
+    font-family: "Heavy";
+}
+
+.text{
+    font-size: 20px;
+    margin: none;
+    padding: none;
+}
+
+.people{
+    padding: 20px 0px;
+}
+
+.header{
+    background-color: #5d96ff;
+    width: 90%;
+    padding: 20px 20px;
+    margin-top: 20px;
+    font-size: 32px;
+    font-family: "Heavy";
+    margin: 20px auto;
+    border-radius: 20px;
+}
+
+.in{
+  width: 90%;
+  height: 220px;
+  display: flex;
+  margin: 20px auto; /* Center the 'part' element on the page */
+  padding: 20px 20px; /* Add some padding for spacing between 'part' blocks */
+  background-color: rgba(159, 204, 255, 0.496);
+  border: 1px solid #ccc; /* Add a border to separate 'part' blocks */
+  border-radius: 20px; /* Rounded corners for a clean look */
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.img{
+    width: 200px;
+    height: 200px;
+    float: left;
+    padding: 0px 20px;
+}
+
+.info{
+    /* float: right; */
+    padding-left: 20px;
+}
+
+.name{
+    width: auto;
+    font-size: 32px;
+    font-family: "Heavy";
+    /* padding-left: 20px; */
+}
+
+.hed{
+    font-size: 16px;
+}
+
+.item{
+    margin-bottom: 10px;
+    font-size: 16px ;
+    font-family: "Regular";
+}
+
+.other{
+    font-size: 16px !important;
+    padding: 10px 0px;
+}
